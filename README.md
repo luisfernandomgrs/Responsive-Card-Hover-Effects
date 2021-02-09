@@ -7,3 +7,7 @@ O projeto original do autor, está no link abaixo
 <code>
   https://www.youtube.com/watch?v=8b2mTq0Xrtw
 </code>
+
+Como ficará o resultado deste projeto
+
+![image](https://user-images.githubusercontent.com/72364037/107440851-107b5180-6b13-11eb-9539-de6baa804073.png)
